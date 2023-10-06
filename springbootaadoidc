@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-06T17:29:18.677Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="C11pO5ei2aSADgn4Gk_h" version="22.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-06T17:31:06.405Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="K48ypMU70Js_S7uluhTe" version="22.0.3" type="github">
   <diagram name="Page-1" id="14XZ083jBM_8IBByIj3f">
     <mxGraphModel dx="954" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D42yW-FFIJCMqk-TRc6Z-23" value="2. redirect to /oauth2/authorize" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="D42yW-FFIJCMqk-TRc6Z-22" vertex="1" connectable="0">
+        <mxCell id="D42yW-FFIJCMqk-TRc6Z-23" value="2. redirect to&amp;nbsp;/oauth2/v2.0/authorize" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="D42yW-FFIJCMqk-TRc6Z-22" vertex="1" connectable="0">
           <mxGeometry x="-0.0703" relative="1" as="geometry">
             <mxPoint x="10" y="4" as="offset" />
           </mxGeometry>
@@ -114,7 +114,7 @@
             <mxPoint x="641" y="247" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D42yW-FFIJCMqk-TRc6Z-46" value="7. /oauth2/token &lt;br&gt;(clientid,secret,authorization code)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="D42yW-FFIJCMqk-TRc6Z-45" vertex="1" connectable="0">
+        <mxCell id="D42yW-FFIJCMqk-TRc6Z-46" value="7.&amp;nbsp;/oauth2/v2.0/token&lt;br&gt;(clientid,secret,authorization code)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="D42yW-FFIJCMqk-TRc6Z-45" vertex="1" connectable="0">
           <mxGeometry x="-0.1374" y="3" relative="1" as="geometry">
             <mxPoint x="26" y="-5" as="offset" />
           </mxGeometry>
