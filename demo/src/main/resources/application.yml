@@ -1,0 +1,13 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          aad:
+            client-id: <replace_with_aad_clientid>
+            client-secret: <replace_with_aad_clientsecret>
+            scope: openid+profile+email
+            client-name: Login with AzureAD 
+        provider:
+          aad: 
+            issuer-uri: https://login.microsoftonline.com/<aad_tenantid>/v2.0
